@@ -9,17 +9,17 @@ Installation
 You can install this by running the following commands
 
 ``` bash
-git clone https://github.com/stevekm/dotfiles.git ~/dotfiles
+git clone https://github.com/b4gol/dotfiles.git ~/dotfiles
 ```
 
 On some systems I need to use this instead
 
 ```bash
-git clone https://stevekm@github.com/stevekm/dotfiles.git
+git clone https://b4gol@github.com/b4gol/dotfiles.git
 ```
 Or this if I tried the first one and it didn't work
 ```bash
-git remote set-url origin https://stevekm@github.com/stevekm/dotfiles.git
+git remote set-url origin https://b4gol@github.com/b4gol/dotfiles.git
 ```
 Of course the last two only work for me, insert your username instead and maybe they will work for you too. 
 
